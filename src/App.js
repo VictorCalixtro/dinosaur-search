@@ -70,7 +70,7 @@ class App extends Component{ //Since we imported it we dont have to type React.C
     return (
         <div className='App'>
           <SearchBox onSearchChange={this.onSearchChange} />
-          <DinoList dinos={this.state.dinos}/>
+          <DinoList dinos={filtereddinos}/>
 
 
         </div>
