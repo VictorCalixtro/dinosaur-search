@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dinosaur-search/static/css/main.5cc025de.chunk.css",
+    "main.js": "/dinosaur-search/static/js/main.4c4ae53a.chunk.js",
+    "main.js.map": "/dinosaur-search/static/js/main.4c4ae53a.chunk.js.map",
+    "runtime-main.js": "/dinosaur-search/static/js/runtime-main.e839e0df.js",
+    "runtime-main.js.map": "/dinosaur-search/static/js/runtime-main.e839e0df.js.map",
+    "static/js/2.07823694.chunk.js": "/dinosaur-search/static/js/2.07823694.chunk.js",
+    "static/js/2.07823694.chunk.js.map": "/dinosaur-search/static/js/2.07823694.chunk.js.map",
+    "static/js/3.44b3a207.chunk.js": "/dinosaur-search/static/js/3.44b3a207.chunk.js",
+    "static/js/3.44b3a207.chunk.js.map": "/dinosaur-search/static/js/3.44b3a207.chunk.js.map",
+    "index.html": "/dinosaur-search/index.html",
+    "static/css/main.5cc025de.chunk.css.map": "/dinosaur-search/static/css/main.5cc025de.chunk.css.map",
+    "static/js/2.07823694.chunk.js.LICENSE.txt": "/dinosaur-search/static/js/2.07823694.chunk.js.LICENSE.txt",
+    "static/media/allo.50afec6f.jpeg": "/dinosaur-search/static/media/allo.50afec6f.jpeg",
+    "static/media/ankylosaurus.8a278fb5.jpg": "/dinosaur-search/static/media/ankylosaurus.8a278fb5.jpg",
+    "static/media/index.css": "/dinosaur-search/static/media/background.5a4e63ba.jpg",
+    "static/media/carno.923c18ee.jpg": "/dinosaur-search/static/media/carno.923c18ee.jpg",
+    "static/media/mosasaurus.77c882c2.jpg": "/dinosaur-search/static/media/mosasaurus.77c882c2.jpg",
+    "static/media/raptor.aae06030.jpg": "/dinosaur-search/static/media/raptor.aae06030.jpg",
+    "static/media/rex.c81d7234.jpg": "/dinosaur-search/static/media/rex.c81d7234.jpg",
+    "static/media/spino.b930ac66.jpg": "/dinosaur-search/static/media/spino.b930ac66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e839e0df.js",
+    "static/js/2.07823694.chunk.js",
+    "static/css/main.5cc025de.chunk.css",
+    "static/js/main.4c4ae53a.chunk.js"
+  ]
+}
