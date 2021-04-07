@@ -12,3 +12,5 @@ Alternatively
 
 ### `Yarn Start`
 
+#Github Pages Url
+'https://victorcalixtro.github.io/dinosaur-search/'
